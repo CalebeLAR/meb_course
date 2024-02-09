@@ -1,0 +1,30 @@
+13. Prove a existência de retas reversas.
+14. Prove que um quadrilátero reverso não é paralelogramo.
+15. Mostre que as diagonais de um quadrilátero reverso são reversas.
+16. Duas retas distintas r e s, reversas a uma terceira reta t, são reversas entre si?
+17. Prove que duas retas reversas e uma concorrente com as duas determinam 
+dois planos distintos.
+18. Classifique em verdadeiro (V) ou falso (F):
+a) Duas retas ou são coincidentes ou são distintas.
+b) Duas retas ou são coplanares ou são reversas.
+c) Duas retas distintas determinam um plano.
+d) Duas retas concorrentes têm um ponto comum.
+e) Duas retas concorrentes têm um único ponto comum.
+f) Duas retas que têm um ponto comum são concorrentes.
+g) Duas retas concorrentes são coplanares.
+h) Duas retas coplanares são concorrentes.
+i) Duas retas distintas não paralelas são reversas.
+j) Duas retas que não têm ponto comum são paralelas.
+k) Duas retas que não têm ponto comum são reversas.
+l) Duas retas coplanares ou são paralelas ou são concorrentes.
+m) Duas retas não coplanares são reversas.
+19. Classifique em verdadeiro (V) ou falso (F):
+a) r  s 5  ⇒ r e s são reversas.
+b) r e s são reversas ⇒ r  s 5 .
+c) r  s 5  ⇒ r e s são paralelas.
+d) r  s, r  s ⇒ r  s 5 .
+e) A condição r  s 5  é necessária para que r e s sejam reversas.
+f) A condição r  s 5  é suficiente para que r e s sejam reversas.
+g) A condição r  s 5  é necessária para que duas retas distintas r e s sejam 
+paralelas.
+h) A condição r  s 5  é suficiente para que duas retas r e s sejam paralelas.
